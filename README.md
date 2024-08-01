@@ -7,6 +7,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Code Files
+
+SmartForm.js: Handles form rendering, input changes, and form submission with validation.
+SmartForm.css: Contains responsive CSS for the form to ensure it looks good on all devices.
+App.js: Renders the SmartForm component.
+index.js: Entry point for the React application.
+
 ## Available Scripts
 
 In the project directory, you can run:
